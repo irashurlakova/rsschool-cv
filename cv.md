@@ -1,4 +1,5 @@
 # Shurlakova Irina Genadevna
+![my photo](image.png)
 ### email: 96irinashurlakova@gmail.com
 #### Passionate junior front-end developer with a desire to learn and grow in a collaborative team environment. Skilled in HTML, CSS, and JavaScript.Soft Skills: Communication, Time Management, Teamwork, Self-motivation, Problem Solving, Critical Thinking, Debugging
 #### Industry Knowledge: HTML, CSS, JavaScript
